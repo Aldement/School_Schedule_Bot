@@ -42,7 +42,6 @@
     ```bash
     python bot.py
     ```
-    И откройте бота по ссылке t.me/School_schedule_bot_bot
 
     Бот будет работать и принимать команды.
 
